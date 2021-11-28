@@ -1,0 +1,30 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GD75FSY7G4GLUEQSMNXWDS7AVTQDZLBRUGMXCFWW7MUWGBXO7T5LNFFJ",
+"GBCJXBW52YEQA46L2EEXRGS4UVXE5ITLDZNWGXHHJ6D2WVSYPGMH7TU7"
+]
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="BioRs"
+ORG_URL="https://biorslab.com/"
+ORG_DESCRIPTION="We want BioRs to become the most widely used form of digital payment. In order to achieve mass adoption of crypto we believe that a coin must have the most common utility and real world to buy physical goods and items."
+ORG_TWITTER="@BioRsLab"
+ORG_LOGO="https://pasteboard.co/rFHEyzKYQGWF.png"
+ORG_OFFICIAL_EMAIL="https://biorslab.com/"
+
+
+
+[[CURRENCIES]]
+code="UPT1"
+issuer="GBCJXBW52YEQA46L2EEXRGS4UVXE5ITLDZNWGXHHJ6D2WVSYPGMH7TU7"
+anchor_asset_type="crypto"
+anchor_asset="false"
+name="UPT1"
+desc="UPT1 CELL INFUSION THERAPY"
+image="https://pasteboard.co/zRuamaAG3VZu.png"
+fixed_number=3000000
+max_number=3000000
+is_unlimited=false
+#UPT1 was issued using the open and inclusive Stellar blockchain network.
