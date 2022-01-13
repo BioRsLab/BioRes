@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
-ACCOUNTS=["GBCJXBW52YEQA46L2EEXRGS4UVXE5ITLDZNWGXHHJ6D2WVSYPGMH7TU7",
+ACCOUNTS=["GATJBF36ZGL6TGYGSLA5RJO6KTRERLQJDCCSOS2O7IQS6MOGF52MTHSZ",
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="BioRs"
+ORG_NAME="BioRes"
 ORG_URL="https://biorslab.com/"
 ORG_DESCRIPTION="We want BioRs to become the most widely used form of digital payment. In order to achieve mass adoption of crypto we believe that a coin must have the most common utility and real world to buy physical goods and items."
 ORG_TWITTER="@BioRsLab"
-ORG_LOGO="https://pasteboard.co/rFHEyzKYQGWF.png"
+ORG_LOGO="https://gcdn.pbrd.co/images/rFHEyzKYQGWF.png"
 ORG_OFFICIAL_EMAIL="https://biorslab.com/"
 
 
 
 [[CURRENCIES]]
-code="UPT1"
-issuer="GBCJXBW52YEQA46L2EEXRGS4UVXE5ITLDZNWGXHHJ6D2WVSYPGMH7TU7"
+code="BioRes"
+issuer="GATJBF36ZGL6TGYGSLA5RJO6KTRERLQJDCCSOS2O7IQS6MOGF52MTHSZ"
 anchor_asset_type="crypto"
 anchor_asset="false"
-name="UPT1"
-desc="UPT1 CELL INFUSION THERAPY"
-image="https://pasteboard.co/zRuamaAG3VZu.png"
-fixed_number=3000000
-max_number=3000000
+name="BioRes"
+desc="BioRs is the heart of Innovative Bioresearch ecosystem"
+image="https://gcdn.pbrd.co/images/rFHEyzKYQGWF.png"
+fixed_number=500000
+max_number=500000
 is_unlimited=false
-#UPT1 was issued using the open and inclusive Stellar blockchain network.
+#BioRes was issued using the open and inclusive Stellar blockchain network.
