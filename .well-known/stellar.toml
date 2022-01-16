@@ -1,6 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=["GATJBF36ZGL6TGYGSLA5RJO6KTRERLQJDCCSOS2O7IQS6MOGF52MTHSZ",
+"GDARX7ZRSEC75VBN2RBY5FH6EYWCFGVRE4WXF62RXIMJGCMH24EN5VIP",
 ]
 VERSION="2.0.0"
 
@@ -26,3 +27,17 @@ fixed_number=500000
 max_number=500000
 is_unlimited=false
 #BioRes was issued using the open and inclusive Stellar blockchain network.
+
+[[CURRENCIES]]
+code="SupT1"
+issuer="GDARX7ZRSEC75VBN2RBY5FH6EYWCFGVRE4WXF62RXIMJGCMH24EN5VIP"
+anchor_asset_type="crypto"
+anchor_asset="false"
+name="SupT1"
+desc="SupT1 CELL INFUSION THERAPY"
+image="https://gcdn.pbrd.co/images/zRuamaAG3VZu.png"
+fixed_number=300000
+max_number=300000
+is_unlimited=false
+#SupT1 was issued using the open and inclusive Stellar blockchain network.
+
